@@ -1,0 +1,6 @@
+opensnitch (1.4.0~rc4-1denios2) testing; urgency=medium
+
+  * Initial release for Denios Gnu/Linux.
+  * Import new upstream release.
+  * Initial version for Denios Gnu/Linux.
+ -- Denis Maslo <denios-linux@proton.me>  Mon, 30 Jan 2023 20:18:45 +0100
